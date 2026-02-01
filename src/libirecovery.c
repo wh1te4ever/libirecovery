@@ -481,7 +481,7 @@ static struct irecv_device irecv_devices[] = {
 	{ "RealityDevice14,1", "n301ap", 0x42, 0x8112, "Apple Vision Pro" },
 	{ "RealityDevice17,1", "n301aap", 0x42, 0x8142, "Apple Vision Pro (M5)" },
 	/* Apple Virtual Phone? */
-	{ "iPhone99,11", "vresearch101ap", 0x90, 0xFE01, "iPhone 99,11" },
+	{ "iPhone99,11", "vphone600ap", 0x90, 0xFE01, "iPhone 99,11" },
 	{ NULL,          NULL,         -1,     -1, NULL }
 };
 
